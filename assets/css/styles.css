@@ -1,0 +1,29 @@
+body {
+	margin:0 auto;
+	max-width:960px;
+	width:88%;
+	font-size:30px;
+	background:lightpink;
+}
+p {
+	padding:0.5em 0;
+	text-align:center;
+}
+.abril {
+	font-family: 'Abril Fatface', cursive;
+	font-size:50px;
+}
+.poiret {
+	font-family: 'Poiret One', cursive;
+}
+.lobster {
+	font-family: 'Lobster Two', cursive;
+	font-size:50px;
+}
+.coustard {
+	font-family: 'Coustard', serif;
+	font-size:40px;
+}
+.raleway {
+	font-family: 'Raleway', sans-serif;
+}
